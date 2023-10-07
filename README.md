@@ -20,3 +20,6 @@ Lombok <br>
 MyBatis Framework <br>
 MySQL Driver <br>
 通用Mapper4 增删改查 <br>
+
+### 1005
+OkHttp 处理 HTTP 网络请求
